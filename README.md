@@ -3,6 +3,8 @@ Fresco Play TCS ReactJS Challenge | ReactJS, CSS, JS | Created by Ambattz | 2022
 
 ## TOPICS
 ### ReactJS - Hospital Application
+ReactJS is an open-source JavaScript framework for building a user interface. A uniqueness of ReactJS is that it is not restricted to just client-side programming, but can also be used for the server-side. This case study is about creating a hospital application to sign in, signup, add, view, and edit the patient details, book, view, and edit appointment details, and so on.
+
 In this application, you will do the following :
 
   * Create a signup page to register the user.
@@ -10,12 +12,18 @@ In this application, you will do the following :
   * Create components to Register, Edit, and View patient details.
   * Create components to Book, Edit, and View the appointments.
   * Create a Navbar.
+01 You need to follow these steps otherwise you will face some server issues even hands-On code is right. 
+
+    Step 1: Run ---- Install
+    Step 2: Run ---- Run
+    Step 3: Run ---- Tests 
+    
+02 Do this steps before pasting code after Run Tests to check the test cases passed
 
 ## PRE-REQUISITES
 HTML, CSS, JS, and ReactJS
 
 ## RESULT
-
 
 |  | Intial Test Run | Final Test Run
 ------------- | ----------------------------- | ----------------------
@@ -167,3 +175,4 @@ Time:         | 24.231s                       | 19.37s
     ✓ renders a location (5ms)
     ✓ renders a mobile (4ms)
 
+Test Cases passed successfully.
