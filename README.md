@@ -12,6 +12,7 @@ In this application, you will do the following :
   * Create components to Register, Edit, and View patient details.
   * Create components to Book, Edit, and View the appointments.
   * Create a Navbar.
+ 
 01 You need to follow these steps otherwise you will face some server issues even hands-On code is right. 
 
     Step 1: Run ---- Install
